@@ -63,4 +63,4 @@ npm run build
 Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 ---
-Created by **Vincent Haney Jr.**
+Created by **Unluckvj**

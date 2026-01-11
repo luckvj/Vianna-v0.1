@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Universal Life Management Hub - Organize your entire life with style",
   "main": "dist-electron/main.js",
-  "author": "Vincent Haney Jr.",
+  "author": "Unluckvj",
   "license": "GPL-3.0",
   "scripts": {
     "dev": "vite",
